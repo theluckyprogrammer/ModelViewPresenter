@@ -11,6 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presenters", "Presenters\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingPresenters", "LoggingPresenters\LoggingPresenters.csproj", "{785D7309-6808-474F-9090-8B5D6D8E28BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingPresenter2", "LoggingPresenter2\LoggingPresenter2.csproj", "{9BC46DDE-A31D-4F1D-A051-44E3539B02C8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8F0DDC77-4571-49E6-A1C5-32D22FEA0C22} = {8F0DDC77-4571-49E6-A1C5-32D22FEA0C22}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +38,10 @@ Global
 		{785D7309-6808-474F-9090-8B5D6D8E28BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{785D7309-6808-474F-9090-8B5D6D8E28BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{785D7309-6808-474F-9090-8B5D6D8E28BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC46DDE-A31D-4F1D-A051-44E3539B02C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC46DDE-A31D-4F1D-A051-44E3539B02C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC46DDE-A31D-4F1D-A051-44E3539B02C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC46DDE-A31D-4F1D-A051-44E3539B02C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

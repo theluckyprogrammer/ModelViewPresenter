@@ -7,4 +7,4 @@ context menu.
 
 If you want to switch between panels, right click to open context menu (secon panel support crud operations).
 
-**More in wiki.
+**More in wiki.**

@@ -5,7 +5,7 @@ Meantime I took part in the job interviw, recruiter asked me to wrote simple app
 Recruiter requirments were simple, I had to make customer registry with basic crud operations so I've made one view with two panels and 
 context menu. 
 
-**Crud operation are available on second panel.
-If you want to switch between panels, right click to open context menu (secon panel support crud operations).**
+
+**Second panel support crud operations, mouse right click to open context menu with operations.**
 
 **More in wiki.**

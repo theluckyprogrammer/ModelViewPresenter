@@ -7,8 +7,8 @@
     <ProjectGuid>{785D7309-6808-474F-9090-8B5D6D8E28BD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LoggingPresenters</RootNamespace>
-    <AssemblyName>LoggingPresenters</AssemblyName>
+    <RootNamespace>LoggingPresenter</RootNamespace>
+    <AssemblyName>LoggingPresenter</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

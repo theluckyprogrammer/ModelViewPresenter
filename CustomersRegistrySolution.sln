@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Cont
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presenters", "Presenters\Presenters.csproj", "{8F0DDC77-4571-49E6-A1C5-32D22FEA0C22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingPresenters", "LoggingPresenters\LoggingPresenters.csproj", "{785D7309-6808-474F-9090-8B5D6D8E28BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingPresenter", "LoggingPresenters\LoggingPresenter.csproj", "{785D7309-6808-474F-9090-8B5D6D8E28BD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingPresenter2", "LoggingPresenter2\LoggingPresenter2.csproj", "{9BC46DDE-A31D-4F1D-A051-44E3539B02C8}"
 	ProjectSection(ProjectDependencies) = postProject
